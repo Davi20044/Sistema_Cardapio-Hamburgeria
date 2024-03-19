@@ -1,4 +1,4 @@
-Funcionamento do Sistema:
+# Funcionamento do Sistema:
 
 Interface Gráfica: O sistema utiliza a biblioteca Tkinter para criar uma interface gráfica amigável, permitindo que o usuário interaja com as diferentes funcionalidades do programa.
 
@@ -6,7 +6,7 @@ Banco de Dados: Faz uso do MySQL para armazenar informações sobre os produtos 
 
 
 
-Funcionalidades Principais:
+# Funcionalidades Principais:
 
 Venda: Permite ao usuário selecionar produtos disponíveis e calcular o valor total da compra.
 Adição de Produtos: Oferece a funcionalidade para adicionar novos produtos ao cardápio da hamburgueria.
